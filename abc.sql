@@ -1,8 +1,0 @@
---
--- Table "ABC"
---
-CREATE TABLE "ADMIN"."ABC" 
-   (	"C1" NUMBER, 
-	"C2" NUMBER
-   )  DEFAULT COLLATION "USING_NLS_COMP"
-/
