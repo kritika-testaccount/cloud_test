@@ -1,2 +1,2 @@
-@sql/tables/createtables.sql
+@sql/tables/createTables.sql
 @@views/view1.sql
